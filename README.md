@@ -1,4 +1,4 @@
-# my-project
+# calculatorVue
 
 > A Vue.js project
 
